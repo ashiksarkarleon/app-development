@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "DocumentPicker",
+    "slug": "DocumentPicker",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "DocumentPicker"
+}

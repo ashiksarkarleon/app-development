@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "DrakLight",
+    "slug": "DrakLight",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "userInterfaceStyle": "automatic"
+  },
+  "name": "DrakLight"
+}

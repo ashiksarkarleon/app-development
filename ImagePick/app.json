@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ImagePick",
+    "slug": "ImagePick",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ImagePick"
+}

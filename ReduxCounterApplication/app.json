@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ReduxCounterApplication",
+    "slug": "ReduxCounterApplication",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ReduxCounterApplication"
+}
